@@ -17,9 +17,9 @@ I am a beginner developer, I have been programming for about 5 years. I'm not qu
 
 <p align="left"> <a href="https://www.github.com/Maxdgf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
+<b>My Stats</b>
 
 <a href="http://www.github.com/Maxdgf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxdgf&stroke=84cc16&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=84cc16&currStreakLabel=ef4444&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
